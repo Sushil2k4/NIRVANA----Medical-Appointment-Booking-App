@@ -1,4 +1,2 @@
 # NIRVANA----Medical-Appointment-Booking-App 
-Divyansh secured 40.5 in placement matrix & Arnav has 19 contributions on github helllooooo
-
-arnav the real one with 10 cgpa
+okay let us get serious as i am not as capable as Sushil i can not right a description for this README file so i would like it if Sushil the overachiever to finidh the README file ;)
