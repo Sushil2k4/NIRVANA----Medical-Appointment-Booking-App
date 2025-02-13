@@ -1,3 +1,3 @@
 # NIRVANA----Medical-Appointment-Booking-App 
 Divyansh secured 40.5 in placement matrix & Arnav has 19 contributions on github helllooooo
-Arnav Diddy is the real topper
+no sushil is the real topper
