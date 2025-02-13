@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">NIRVANA</string>
+    <string-array name="specialists_array">
+        <item>GENERAL MEDICINE</item>
+        <item>CARDIOLOGY</item>
+        <item>DENTIST</item>
+        <item>COUNSELLING</item>
+        <item>DERMATOLOGY</item>
+        <item>ENT</item>
+        <item>GASTROENTEROLOGY</item>
+        <item>GENERAL PHYSICIAN</item>
+        <item>GYNAECOLOGICAL ONCOLOGY</item>
+        <item>INFERTILITY</item>
+        <item>NEUROLOGY</item>
+        <item>ONCOLOGY</item>
+        <item>ORTHOPEDICS</item>
+        <item>PAEDIATRICIAN</item>
+        <item>PHYSIOTHERAPY</item>
+        <item>PSYCHOLOGY</item>
+        <item>RADIOLOGY</item>
+        <item>TRANSPLANT SURGERY</item>
+    </string-array>
+
+
+
+<!-- Doctors Array -->
+    <string-array name="doctors_array">
+        <!-- Two doctors per specialist as examples -->
+        <item>Dr. A. Sharma</item>
+        <item>Dr. B. Mehta</item>
+        <item>Dr. C. Gupta</item>
+        <item>Dr. D. Kumar</item>
+        <item>Dr. E. Iyer</item>
+        <item>Dr. F. Reddy</item>
+        <item>Dr. G. Nair</item>
+        <item>Dr. H. Singh</item>
+        <item>Dr. I. Das</item>
+        <item>Dr. J. Roy</item>
+        <item>Dr. K. Menon</item>
+        <item>Dr. L. Patel</item>
+        <item>Dr. M. Joshi</item>
+        <item>Dr. N. Desai</item>
+        <item>Dr. O. Verma</item>
+        <item>Dr. P. Sen</item>
+        <item>Dr. Q. Chawla</item>
+        <item>Dr. R. Saxena</item>
+        <item>Dr. S. Kaul</item>
+    </string-array>
+</resources>
