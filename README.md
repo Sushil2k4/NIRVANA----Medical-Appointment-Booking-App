@@ -1,2 +1,2 @@
 # NIRVANA----Medical-Appointment-Booking-App 
-Stop trying to play the fool with me, Niggesh! Stop the cap. I know you're going to enjoy yourself in Abode with —-coughs hysterically-— never mind. But it doesn’t matter. See, I don’t want to jeopardize this whole concoction and get ostracized from the Bengaluru Billionaires' entourage for some lame, arcane reasons, because I'm not the one who's going to face those vicissitudes. So let the truth prevail—Diddy Doma Prasad is the real one, with a 10 CGPA and a bright, luminous future ahead of him. 💦💦💦
+i give up no more playing please make the readme file
